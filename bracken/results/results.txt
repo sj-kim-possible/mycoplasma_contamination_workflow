@@ -1,0 +1,11 @@
+Sum of new_est_reads in SRR7865616: 380
+Sum of new_est_reads in SRR7865617: 336
+Sum of new_est_reads in SRR7865618: 1113
+Sum of new_est_reads in SRR7865619: 1331
+Sum of new_est_reads in SRR7865620: 251
+Sum of new_est_reads in SRR7865621: 1814
+Sum of new_est_reads in SRR7865622: 491
+Sum of new_est_reads in SRR7865623: 7307
+Sum of new_est_reads in SRR7865624: 2023
+Sum of new_est_reads in SRR7865625: 212
+Sum of new_est_reads in SRR7865626: 1778

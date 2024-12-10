@@ -1,0 +1,42 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	41334	1468	42802	0.98217
+Mycobacterium canettii	78331	S	79	5	84	0.00193
+Mycobacterium kansasii	1768	S	1	0	1	0.00002
+Cutibacterium acnes	1747	S	11	1	12	0.00028
+Actinomyces oris	544580	S	1	0	1	0.00002
+Amycolatopsis thermalba	944492	S	1	0	1	0.00002
+Nakamurella antarctica	1902245	S	1	0	1	0.00002
+Staphylococcus cohnii	29382	S	11	12	23	0.00053
+Staphylococcus capitis	29388	S	2	3	5	0.00011
+Staphylococcus epidermidis	1282	S	2	3	5	0.00011
+Staphylococcus aureus	1280	S	1	17	18	0.00041
+Staphylococcus hominis	1290	S	1	0	1	0.00002
+Jeotgalicoccus sp. ATCC 8456	946435	S	1	0	1	0.00002
+Bacillus sp. YP1	1574141	S	1	47	48	0.00110
+Bacillus cabrialesii	2487276	S	1	0	1	0.00002
+Bacillus rugosus	2715209	S	1	0	1	0.00002
+Fictibacillus arsenicus	255247	S	1	0	1	0.00002
+Paenisporosarcina cavernae	2320858	S	1	0	1	0.00002
+Lactobacillus iners	147802	S	1	0	1	0.00002
+Limosilactobacillus fermentum	1613	S	1	0	1	0.00002
+Paucilactobacillus hokkaidonensis	1193095	S	1	0	1	0.00002
+Finegoldia magna	1260	S	1	0	1	0.00002
+Mesomycoplasma hyorhinis	2100	S	2	1	3	0.00007
+Klebsiella pneumoniae	573	S	15	499	514	0.01179
+Acinetobacter sp. SCLZS86	2908637	S	1	3	4	0.00009
+Moraxella osloensis	34062	S	3	0	3	0.00007
+Pseudomonas sp. CIP-10	2892442	S	3	7	10	0.00023
+Stenotrophomonas maltophilia	40324	S	2	0	2	0.00005
+Aliarcobacter cryaerophilus	28198	S	1	0	1	0.00002
+[Arcobacter] porcinus	1935204	S	1	0	1	0.00002
+Arcobacter venerupis	1054033	S	1	0	1	0.00002
+Caminibacter mediatlanticus	291048	S	1	0	1	0.00002
+Chryseobacterium manosquense	2754694	S	1	0	1	0.00002
+Chryseobacterium sp. KACC 21268	3025664	S	1	0	1	0.00002
+Cloacibacterium normanense	237258	S	1	0	1	0.00002
+Leptotrichia trevisanii	109328	S	1	0	1	0.00002
+Leptotrichia wadei	157687	S	1	0	1	0.00002
+Methanocaldococcus jannaschii	2190	S	4	3	7	0.00016
+Methanocaldococcus sp. FS406-22	644281	S	4	0	4	0.00009
+Methanocaldococcus lauensis	2546128	S	1	0	1	0.00002
+Rosenblumvirus CSA13	2732597	S	3	2	5	0.00011

@@ -1,0 +1,22 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	14902	316	15218	0.97802
+Staphylococcus cohnii	29382	S	94	41	135	0.00868
+Staphylococcus nepalensis	214473	S	1	0	1	0.00006
+Virgibacillus sp. NKC19-16	2831673	S	1	0	1	0.00006
+Lactobacillus johnsonii	33959	S	6	15	21	0.00135
+Lactobacillus taiwanensis	508451	S	2	7	9	0.00058
+Lactobacillus intestinalis	151781	S	1	0	1	0.00006
+Ligilactobacillus murinus	1622	S	3	1	4	0.00026
+Limosilactobacillus reuteri	1598	S	1	8	9	0.00058
+Clostridium sp. MD294	97138	S	1	11	12	0.00077
+Mycobacterium canettii	78331	S	30	8	38	0.00244
+Nocardia iowensis	204891	S	1	0	1	0.00006
+Cutibacterium acnes	1747	S	1	1	2	0.00013
+Microbacterium sp. LKL04	912630	S	1	0	1	0.00006
+Bacteroides caccae	47678	S	1	8	9	0.00058
+Bacteroides caecimuris	1796613	S	1	35	36	0.00231
+Muribaculum intestinale	1796646	S	1	4	5	0.00032
+Klebsiella pneumoniae	573	S	3	44	47	0.00302
+Moraxella osloensis	34062	S	1	0	1	0.00006
+Lentisphaera profundi	1658616	S	1	0	1	0.00006
+Rosenblumvirus CSA13	2732597	S	2	0	2	0.00013

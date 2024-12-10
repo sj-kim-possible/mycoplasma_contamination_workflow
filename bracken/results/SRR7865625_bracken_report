@@ -1,0 +1,10 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	21076	186	21262	0.99756
+Mycobacterium canettii	78331	S	14	0	14	0.00066
+Curtobacterium flaccumfaciens	2035	S	3	0	3	0.00014
+Staphylococcus pseudintermedius	283734	S	1	0	1	0.00005
+Fictibacillus arsenicus	255247	S	1	0	1	0.00005
+Klebsiella pneumoniae	573	S	3	24	27	0.00127
+Pseudomonas sp. CIP-10	2892442	S	1	0	1	0.00005
+Brevundimonas sp. NIBR10	3015997	S	1	0	1	0.00005
+Andhravirus andhra	2732591	S	2	0	2	0.00009

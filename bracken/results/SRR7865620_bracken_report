@@ -1,0 +1,7 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	16598	249	16847	0.99953
+Moraxella osloensis	34062	S	1	0	1	0.00006
+Herbaspirillum huttiense	863372	S	1	0	1	0.00006
+Staphylococcus caprae	29380	S	1	0	1	0.00006
+Clostridioides sp. ES-W-0016-02	2770788	S	1	1	2	0.00012
+Methanocaldococcus sp. FS406-22	644281	S	1	0	1	0.00006

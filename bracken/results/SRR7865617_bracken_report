@@ -1,0 +1,11 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	30892	320	31212	0.99885
+Mycobacterium canettii	78331	S	11	0	11	0.00035
+Cutibacterium acnes	1747	S	1	0	1	0.00003
+Staphylococcus epidermidis	1282	S	1	0	1	0.00003
+Bacillus subtilis	1423	S	1	2	3	0.00010
+Chroococcidiopsis sp. CCMEE 29	155894	S	1	0	1	0.00003
+Klebsiella pneumoniae	573	S	1	10	11	0.00035
+Acinetobacter baumannii	470	S	1	2	3	0.00010
+Sphingobacterium sp. DR205	2713573	S	1	0	1	0.00003
+Methanocaldococcus sp. FS406-22	644281	S	1	0	1	0.00003

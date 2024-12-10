@@ -1,0 +1,38 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Homo sapiens	9606	S	23036	711	23747	0.92892
+Staphylococcus cohnii	29382	S	601	467	1068	0.04178
+Staphylococcus capitis	29388	S	1	1	2	0.00008
+Bacillus cabrialesii	2487276	S	1	1	2	0.00008
+Listeria ivanovii	1638	S	1	0	1	0.00004
+Paucilactobacillus nenjiangensis	1296540	S	1	0	1	0.00004
+Clostridium estertheticum	238834	S	1	0	1	0.00004
+Hathewaya histolytica	1498	S	1	0	1	0.00004
+Tepidibacter sp. 8C15b	2925782	S	1	0	1	0.00004
+Catenibacterium mitsuokai	100886	S	1	0	1	0.00004
+Anaerococcus prevotii	33034	S	1	0	1	0.00004
+Mycobacterium canettii	78331	S	55	3	58	0.00227
+Cutibacterium acnes	1747	S	3	1	4	0.00016
+Micrococcus luteus	1270	S	1	0	1	0.00004
+Glutamicibacter sp. MNS18	2989817	S	1	0	1	0.00004
+Lentzea sp. HUAS12	2951806	S	1	0	1	0.00004
+Klebsiella pneumoniae	573	S	20	613	633	0.02476
+Acinetobacter defluvii	1871111	S	1	0	1	0.00004
+Acinetobacter johnsonii	40214	S	1	1	2	0.00008
+Moraxella osloensis	34062	S	2	0	2	0.00008
+Psychrobacter sp. P11G3	1699623	S	1	0	1	0.00004
+Psychrobacter sp. P11G5	1699624	S	1	0	1	0.00004
+Vibrio anguillarum	55601	S	2	0	2	0.00008
+Pseudomonas chlororaphis	587753	S	1	0	1	0.00004
+Stenotrophomonas maltophilia	40324	S	1	1	2	0.00008
+Defluviicoccus vanus	111831	S	1	0	1	0.00004
+Herbaspirillum frisingense	92645	S	1	0	1	0.00004
+Comamonas aquatica	225991	S	1	0	1	0.00004
+Turicimonas muris	1796652	S	1	0	1	0.00004
+Pedobacter sp. SL55	2995161	S	1	0	1	0.00004
+Panacibacter ginsenosidivorans	1813871	S	1	0	1	0.00004
+Helicobacter cinaedi	213	S	1	0	1	0.00004
+Methanocaldococcus sp. FS406-22	644281	S	7	0	7	0.00027
+Methanocaldococcus jannaschii	2190	S	1	0	1	0.00004
+Methanocaldococcus fervens	83171	S	1	0	1	0.00004
+Rosenblumvirus CSA13	2732597	S	3	2	5	0.00020
+Humulus japonicus latent virus	269213	S	1	0	1	0.00004
