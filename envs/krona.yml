@@ -1,0 +1,25 @@
+name: krona
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - c-ares=1.18.1=h0d85af4_0
+  - ca-certificates=2023.5.7=h8857fd0_0
+  - curl=8.0.1=h1fead75_0
+  - krb5=1.20.1=h049b76e_0
+  - krona=2.8=pl5262hdfd78af_2
+  - libcurl=8.0.1=h1fead75_0
+  - libcxx=16.0.3=hd57cbcb_0
+  - libedit=3.1.20191231=h0678c8f_2
+  - libev=4.33=haf1e3a3_1
+  - libnghttp2=1.52.0=he2ab024_0
+  - libssh2=1.10.0=h47af595_3
+  - libzlib=1.2.13=hfd90126_4
+  - ncurses=6.3=h96cf925_1
+  - openssl=3.1.0=h8a1eda9_3
+  - perl=5.26.2=hbcb3906_1008
+  - tk=8.6.12=h5dbffcc_0
+  - zlib=1.2.13=hfd90126_4
+  - zstd=1.5.2=hbc0c0cd_6
+prefix: /Users/johncheney/miniconda3/envs/krona

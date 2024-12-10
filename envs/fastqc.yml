@@ -1,0 +1,18 @@
+name: fastqc
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - expat=2.5.0=hf0c8a7f_1
+  - fastqc=0.12.1=hdfd78af_0
+  - font-ttf-dejavu-sans-mono=2.37=hab24e00_0
+  - fontconfig=2.14.2=h5bb23bf_0
+  - freetype=2.12.1=h3f81eb7_1
+  - libcxx=16.0.3=hd57cbcb_0
+  - libexpat=2.5.0=hf0c8a7f_1
+  - libpng=1.6.39=ha978bb4_0
+  - libzlib=1.2.13=hfd90126_4
+  - openjdk=17.0.3=hbc0c0cd_6
+  - perl=5.32.1=2_h0d85af4_perl5
+prefix: /Users/johncheney/miniconda3/envs/fastqc

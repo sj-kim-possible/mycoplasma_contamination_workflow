@@ -1,0 +1,32 @@
+name: cutadapt
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bzip2=1.0.8=h0d85af4_4
+  - ca-certificates=2023.5.7=h8857fd0_0
+  - cutadapt=4.4=py37h85088bb_0
+  - dnaio=0.10.0=py37h85088bb_0
+  - isa-l=2.30.0=h0d85af4_4
+  - libcxx=16.0.3=hd57cbcb_0
+  - libffi=3.4.2=h0d85af4_5
+  - libsqlite=3.41.2=h58db7d2_1
+  - libzlib=1.2.13=hfd90126_4
+  - ncurses=6.3=h96cf925_1
+  - openssl=3.1.0=h8a1eda9_3
+  - pbzip2=1.1.13=h9d27c22_1
+  - pigz=2.6=h5dbffcc_0
+  - pip=23.1.2=pyhd8ed1ab_0
+  - python=3.7.12=hf3644f1_100_cpython
+  - python-isal=1.1.0=py37h8052db5_0
+  - python_abi=3.7=3_cp37m
+  - readline=8.2=h9e318b2_1
+  - setuptools=67.7.2=pyhd8ed1ab_0
+  - sqlite=3.41.2=h2b0dec6_1
+  - tk=8.6.12=h5dbffcc_0
+  - wheel=0.40.0=pyhd8ed1ab_0
+  - xopen=1.6.0=py37hf985489_0
+  - xz=5.2.6=h775f41a_0
+  - zlib=1.2.13=hfd90126_4
+prefix: /Users/johncheney/miniconda3/envs/cutadapt

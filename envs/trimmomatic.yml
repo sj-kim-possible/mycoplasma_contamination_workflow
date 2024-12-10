@@ -1,0 +1,11 @@
+name: trimmomatic
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - libcxx=16.0.3=hd57cbcb_0
+  - libzlib=1.2.13=hfd90126_4
+  - openjdk=17.0.3=hbc0c0cd_6
+  - trimmomatic=0.36=6
+prefix: /Users/johncheney/miniconda3/envs/trimmomatic
