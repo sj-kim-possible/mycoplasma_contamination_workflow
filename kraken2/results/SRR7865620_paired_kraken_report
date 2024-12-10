@@ -1,0 +1,76 @@
+  5.21	939	939	U	0	unclassified
+ 94.79	17070	93	R	1	root
+ 93.08	16763	157	R1	131567	  cellular organisms
+ 92.17	16598	0	D	2759	    Eukaryota
+ 92.17	16598	0	D1	33154	      Opisthokonta
+ 92.17	16598	0	K	33208	        Metazoa
+ 92.17	16598	0	K1	6072	          Eumetazoa
+ 92.17	16598	0	K2	33213	            Bilateria
+ 92.17	16598	0	K3	33511	              Deuterostomia
+ 92.17	16598	0	P	7711	                Chordata
+ 92.17	16598	0	P1	89593	                  Craniata
+ 92.17	16598	0	P2	7742	                    Vertebrata
+ 92.17	16598	0	P3	7776	                      Gnathostomata
+ 92.17	16598	0	P4	117570	                        Teleostomi
+ 92.17	16598	0	P5	117571	                          Euteleostomi
+ 92.17	16598	0	P6	8287	                            Sarcopterygii
+ 92.17	16598	0	P7	1338369	                              Dipnotetrapodomorpha
+ 92.17	16598	0	P8	32523	                                Tetrapoda
+ 92.17	16598	0	P9	32524	                                  Amniota
+ 92.17	16598	0	C	40674	                                    Mammalia
+ 92.17	16598	0	C1	32525	                                      Theria
+ 92.17	16598	0	C2	9347	                                        Eutheria
+ 92.17	16598	0	C3	1437010	                                          Boreoeutheria
+ 92.17	16598	0	C4	314146	                                            Euarchontoglires
+ 92.17	16598	0	O	9443	                                              Primates
+ 92.17	16598	0	O1	376913	                                                Haplorrhini
+ 92.17	16598	0	O2	314293	                                                  Simiiformes
+ 92.17	16598	0	O3	9526	                                                    Catarrhini
+ 92.17	16598	0	O4	314295	                                                      Hominoidea
+ 92.17	16598	0	F	9604	                                                        Hominidae
+ 92.17	16598	0	F1	207598	                                                          Homininae
+ 92.17	16598	0	G	9605	                                                            Homo
+ 92.17	16598	16598	S	9606	                                                              Homo sapiens
+  0.04	7	2	D	2	    Bacteria
+  0.01	2	0	P	1224	      Pseudomonadota
+  0.01	1	0	C	1236	        Gammaproteobacteria
+  0.01	1	0	O	2887326	          Moraxellales
+  0.01	1	0	F	468	            Moraxellaceae
+  0.01	1	0	G	475	              Moraxella
+  0.01	1	1	S	34062	                Moraxella osloensis
+  0.01	1	0	C	28216	        Betaproteobacteria
+  0.01	1	0	O	80840	          Burkholderiales
+  0.01	1	0	F	75682	            Oxalobacteraceae
+  0.01	1	0	G	963	              Herbaspirillum
+  0.01	1	1	S	863372	                Herbaspirillum huttiense
+  0.01	2	0	D1	1783272	      Terrabacteria group
+  0.01	2	0	P	1239	        Bacillota
+  0.01	1	0	C	91061	          Bacilli
+  0.01	1	0	O	1385	            Bacillales
+  0.01	1	0	F	90964	              Staphylococcaceae
+  0.01	1	0	G	1279	                Staphylococcus
+  0.01	1	1	S	29380	                  Staphylococcus caprae
+  0.01	1	0	C	186801	          Clostridia
+  0.01	1	0	O	186802	            Eubacteriales
+  0.01	1	0	F	186804	              Peptostreptococcaceae
+  0.01	1	0	G	1870884	                Clostridioides
+  0.01	1	0	G1	2635829	                  unclassified Clostridioides
+  0.01	1	1	S	2770788	                    Clostridioides sp. ES-W-0016-02
+  0.01	1	0	D1	1783270	      FCB group
+  0.01	1	0	D2	68336	        Bacteroidetes/Chlorobi group
+  0.01	1	0	P	976	          Bacteroidota
+  0.01	1	0	C	117743	            Flavobacteriia
+  0.01	1	0	O	200644	              Flavobacteriales
+  0.01	1	0	F	2762318	                Weeksellaceae
+  0.01	1	1	G	501783	                  Cloacibacterium
+  0.01	1	0	D	2157	    Archaea
+  0.01	1	0	P	28890	      Euryarchaeota
+  0.01	1	0	P1	2283794	        Methanomada group
+  0.01	1	0	C	183939	          Methanococci
+  0.01	1	0	O	2182	            Methanococcales
+  0.01	1	0	F	196117	              Methanocaldococcaceae
+  0.01	1	0	G	196118	                Methanocaldococcus
+  0.01	1	0	G1	2641196	                  unclassified Methanocaldococcus
+  0.01	1	1	S	644281	                    Methanocaldococcus sp. FS406-22
+  1.19	214	0	R1	2787854	  other entries
+  1.19	214	214	R2	28384	    other sequences
