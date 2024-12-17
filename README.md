@@ -50,7 +50,6 @@ simply leave only the first line of the ```rule all``` rule uncommented
 5. Run the whole pipeline:
 ```snakemake  --use-conda --cores <cores> -j <jobs> ```
 
-5. 
 ### Overview of each Rule 
 
 - Rule: fastqc_1
