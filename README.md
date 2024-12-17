@@ -1,13 +1,12 @@
 
-# Mycoplasma Contamination Assessment Workflow
-### By John Cheney
+# Mycoplasma Contamination Workflow
 
 ***
 
 ### Welcome
 
 
-Welcome to the GitHub repository for the Mycoplasma Contamination Assessment Workflow! This repository contains an end-to-end workflow developed using Snakemake to assess mycoplasma contamination in NGS data. The purpose of this workflow is to analyze publicly available data from both normal and tumor tissue and tissue-derived organoid cultures and report on potential differences in contamination levels, specifically within the scope of Mycoplasma.
+Welcome to the GitHub repository for the Mycoplasma Contamination Workflow! This repository contains an end-to-end workflow developed using Snakemake to assess mycoplasma contamination in NGS data. The purpose of this workflow is to analyze publicly available data from both normal and tumor tissue and tissue-derived organoid cultures and report on potential differences in contamination levels, specifically within the scope of Mycoplasma.
 
 
 
